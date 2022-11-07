@@ -1,4 +1,4 @@
-# cs351
-systems programming labs
+CS351 (Systems Programming)
+====================
 
-these labs for nik sultana's cs351 labs
+* Labs 1-5 (Fall 2022)
